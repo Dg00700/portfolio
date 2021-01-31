@@ -26,7 +26,7 @@ const AboutMe = () => {
         <div className="subtitle">
           <h3>Computer Science Student. University of Florida</h3>
           <p>
-          Passionate about coding and proficent in various technical skills like python, Java, SQL. Developed projects on  
+          Passionate about coding and proficient in various technical skills like python, Java, SQL. Developed projects on  
             
           different domains like distributed systems, database project for trend and analysis and using advanced data structures.
           </p>
